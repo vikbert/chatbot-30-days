@@ -1,0 +1,13 @@
+{
+    "name": "challenge/chatbot30days",
+    "description": "learning chatbot in 30 days",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vikbert",
+            "email": "segentor@gmail.com"
+        }
+    ],
+    "require": {}
+}
